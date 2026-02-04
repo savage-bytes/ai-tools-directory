@@ -1,5 +1,8 @@
 AI Tools Directory - a premium, fast AI tools listing site built with Next.js App Router.
 
+![Uploading image.png…]()
+
+
 ## Getting Started
 
 Install dependencies and run the dev server:
